@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero {
+    height: 100vh;
+    background: url('hero-bg.jpg') no-repeat center center/cover;
+}
+
+.navbar-brand, .nav-link {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+footer p {
+    margin: 0;
+}
+
+form .form-label {
+    font-weight: bold;
+}
+
+form button {
+    width: 100%;
+}
